@@ -1,0 +1,73 @@
+* {
+    font-family: "GT America", "Segoe UI", Helvetica, Arial, sans-serif;
+    color:#fbf3f2;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%; 
+    margin-top: 300px;
+    margin-bottom: 300px;
+    background-color: #fa991c;
+}
+
+header {
+    width: 100%;
+    height: 12%;
+    line-height: 17px;
+    border: 1px solid;
+    margin-left: auto;
+    margin-right: auto;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    background-color: #1c768f;
+}
+
+h1 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 7em; 
+    color: #fbf3f2;
+}
+
+.navlink {
+    position: absolute;
+    right: 0px;
+    width: 300px;
+    border: 2px;
+    display: inline;
+    color: #fbf3f2;
+}
+
+footer {
+    width: 100%;
+    height: 100px;
+    position: relative;
+    background-color: #1c768f;
+
+}
+
+.form-example {
+    margin: auto;
+    width: 43%;
+}
+
+a {
+    color: #fbf3f2;
+    padding-left: 20px;
+    padding-right: 10x;
+}
+
+a:visited {
+    color: #fbf3f2;
+}
+
+input {
+    color: black;
+    align-self: center;
+}
